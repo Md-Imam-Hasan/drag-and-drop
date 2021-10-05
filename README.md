@@ -1,3 +1,3 @@
 ## Project Preview
 
-!(Drag and Drop)[assets/project-preview.gif]
+![Drag and Drop](assets/project-preview.gif)
